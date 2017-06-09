@@ -46,7 +46,7 @@ print(mark.has_enough(weight:1, p:"P1"))
 print(net.is_triggerable(t:"T1", marking:mark))
 ```
 
-##Incidence matrix based tools
+## Incidence matrix based tools
 
 Computation on invariants can be done using the incidence matrix of a Petri net.
 One can get this matrix by using the method ```incidence_matrix``` on NicePetrinet.
