@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Dexter9313/PetriNetLib.svg?branch=master)](https://travis-ci.org/Dexter9313/PetriNetLib)
+
 # PetrinetLib 0.0.1
 
 Small Library to manipulate Petri nets based on ProofKit to use ADTs as internal representation for proofs.
