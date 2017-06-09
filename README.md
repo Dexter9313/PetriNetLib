@@ -1,4 +1,4 @@
-# PetrinetLib
+# PetrinetLib 0.0.1
 
 Small Library to manipulate Petri nets based on ProofKit to use ADTs as internal representation for proofs.
 
