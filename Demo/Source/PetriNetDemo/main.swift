@@ -1,6 +1,6 @@
 import LogicKit
-import ProofKitLib
-import PetrinetLib
+import ProofKit
+import PetriNetLib
 
 // using petrinets ADTs
 ADTm["petrinet"] = Petrinet()
